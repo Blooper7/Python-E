@@ -1,6 +1,6 @@
 TODO: Make everything work via the tokenization function
 
-Python-E, developed by Sam Poyner
+Python-E, developed by Blooper7
 "To boldly go where no E has gone before"
 Have fun >:)
 
