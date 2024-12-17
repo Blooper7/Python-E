@@ -29,7 +29,7 @@ keywords={
 	#other
 	"eeeeeeeeeeeeeeeee":"import",
 	
-	#Parenthesis, brackets, quotes, and terminator
+	#Parenthesis, brackets, quotes, logic, and terminator
 	"E":"(",
 	"EE":")",
 	"EEE":"[",
@@ -38,7 +38,8 @@ keywords={
 	"EEEEEE":"}",
 	"EEEEEEE":";",
 	"EEEEEEEE":"\"",
-	"EEEEEEEEE":"\'"
+	"EEEEEEEEE":"\'",
+	"EEEEEEEEEE":"="
 }
 
 def checkE(string):
