@@ -8,7 +8,7 @@ HOW IT WORKS
 Python-E code is compiled into regular python code, then executed
 
 HOW TO USE:
-python E.py <filename.pe>
+python E.py <filename.pye>
 
 -------------KEYWORDS--------------
 e                    :    print
