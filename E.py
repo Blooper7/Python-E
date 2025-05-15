@@ -1,4 +1,4 @@
-#DON"T LOOK AT ME I"M HIDEOUS
+#DON'T LOOK AT ME I'M HIDEOUS
 
 import sys
 import os
